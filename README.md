@@ -1,3 +1,9 @@
+# A backup fork for extra protection
+
+Use the original at https://github.com/jsa-aerial/DMM
+
+:-) All of us are now proud Arctic Code Vault Contributors :-)
+
 # DMM
 Dataflow Matrix Machines (a generalization of recurrent neural networks).
 
